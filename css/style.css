@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+
+}
+
+.navbar-links {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    list-style: none;
+}
+
+.navbar-links li a {
+    text-decoration: none;
+    color: white;
+}
+
+.IKONKA {
+    color: white;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.container {
+    height: 760px;
+    background-color: #f2f2f2;
+}
+
+main .box1 {
+    margin-top: 52px;
+}
+
+main .box1 .h1 {
+    font-size: 45px;
+    margin-left: 650px;
+}
+
+main .box1 .p1 {
+    margin-top: 32px;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 85px;
+
+}
+
+main .box1 .button1 {
+    padding: 20px 40px;
+    margin-left: 810px;
+    margin-top: 40px;
+    color: white;
+    background-color: #842c68;
+
+}
+
+main .box2 {
+    margin-left: 250px;
+    margin-top: 52px;
+}
+
+main .box2 .h2 {
+    font-size: 50px;
+    margin-top: 52px;
+}
+
+.box3 {
+    margin-left: 250px;
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+main .box4 .p2 {
+    font-size: 20px;
+}
+
+main .box4 .h3 {
+    width: 60px;
+    border-bottom: 1px solid black;
+
+}
+
+main .box5 .p3 {
+    font-size: 20px;
+}
+
+main .box5 .h4 {
+    width: 60px;
+    border-bottom: 1px solid black;
+
+}
+
+
+main .box6 {
+    margin-left: 250px;
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+main .box7 .p4 {
+    font-size: 20px;
+}
+
+main .box7 .h5 {
+    width: 60px;
+    border-bottom: 1px solid black;
+
+}
+
+main .box8 .p5 {
+    font-size: 20px;
+}
+
+main .box8 .h6 {
+    width: 60px;
+    border-bottom: 1px solid black;
+
+}
+
+main .box9 {
+    margin-left: 250px;
+    margin-top: 50px;
+    font-size: 26px;
+}
+
+main .box10{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-left: 87px;
+    margin-top: 58px;
+}
+
+main .box10 .boxs1 .p6{
+    font-size: 20px;
+    margin-top: 10px;
+}
+main .boxs1 .Lorem{
+    margin-top: 15px;
+}
+
+main .boxs1 .h7{
+    margin-top: 15px;
+    font-size: 16px;
+    border-bottom: 1px solid black;
+    margin-right: 310px;
+}
+
+
+main .box10 .boxs2 .p7{
+    font-size: 20px;
+    margin-top: 10px;
+}
+main .boxs2 .Lorem1{
+    margin-top: 15px;
+}
+
+main .boxs2 .h8{
+    margin-top: 15px;
+    font-size: 16px;
+    border-bottom: 1px solid black;
+    margin-right: 310px;
+}
+
+
+main .box10 .boxs3 .p8{
+    font-size: 20px;
+    margin-top: 10px;
+}
+main .boxs3 .Lorem2{
+    margin-top: 15px;
+}
+
+main .boxs3 .h9{
+    margin-top: 15px;
+    font-size: 16px;
+    border-bottom: 1px solid black;
+    margin-right: 310px;
+}
+
+main .box11{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 245px;
+
+}
+
+main .box11 .img7{
+    width: 840px;
+    height: 724px;
+    
+}
+
+main .box11 .p6{
+    width: 440px;
+    height: 724px;
+    font-size: 40px;
+    padding-top: 295px;
+    padding-left: 17px;
+    text-align: center;
+    background-color: #C4C4C4;
+    line-height: 55px;
+}
+
+main .box11 .p6 span{
+    color: #842c84;
+}
+
+footer .box12{
+    display: flex;
+    gap: 116px;
+    justify-content: center;
+    margin-left: 170px;
+    padding-top: 50px;
+    border-bottom: 2px solid #ffff;
+    padding-left: 100px;
+    margin-right: 100px;
+
+}
+
+footer .img8{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container1{
+    width: 1,920px;
+    height: 410px;
+    background-color: black;
+    margin-left: 43px;
+    margin-top: 52px;
+}
+
+footer .box12 .footer-links2{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    line-height: 153px;
+}
+
+.footer-links2 li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+footer .footer-links3{
+    display: flex;
+    gap: 85px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-links3 li a{
+    text-decoration: none;
+    color: white;
+}
+
+footer .box13{
+    border-bottom: 2px solid #ffff;
+}
+
+footer .ikonka1{
+    display: flex;
+    gap: 50px;
+    font-size: 40px;
+    justify-content: center;
+    color: #ffff;
+    margin-top: 60px;
+    
+}
+
+footer .box14{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 50px;
+}
